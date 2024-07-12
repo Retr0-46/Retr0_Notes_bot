@@ -10,7 +10,7 @@ import sys
 import os
 import subprocess
 
-token = '7308225129:AAF8fzDai0tDHxdPv7v0L8KRPJDzuD2FWgo'
+token = '7308225129:'
 pref = '/'
 
 r = sr.Recognizer()
